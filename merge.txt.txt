@@ -1,3 +1,7 @@
 Daniel Zambrano
 Edad:24
 Mi aspiracion sobre la materia es poder aprender a programar de manera eficiente 
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+
+Porque no guardara la infomraicon de manera correcta y habra conflicto con ambas modificaciones.
